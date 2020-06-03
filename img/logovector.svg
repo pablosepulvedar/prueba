@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 1100px;
+        text-anchor: middle;
+        font-family: Impact;
+      }
+
+      .cls-1 {
+        fill: #56544f;
+      }
+
+      .cls-2 {
+        fill: #b68307;
+      }
+    </style>
+  </defs>
+  <g id="Mesa_de_trabajo_1" data-name="Mesa de trabajo 1">
+    <text id="P" class="cls-1" x="812.458" y="975.319">P</text>
+    <text id="C" class="cls-2" x="291.425" y="975.709">C</text>
+  </g>
+</svg>
