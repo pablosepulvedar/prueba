@@ -53,14 +53,14 @@ session_start();
   <div class="row">
     <div class="col-3">
     <nav class="nav flex-column nav-pills">
-      <a class="nav-link active" href="portal_alumnos.php">Noticias</a>
+      <a class="nav-link" href="portal_alumnos.php">Noticias</a>
       <a class="nav-link" href="clases.php">Clases</a>
       <a class="nav-link" href="material.php">Material</a>
-      <a class="nav-link" href="foro.php">Foro</a>
+      <a class="nav-link active" href="foro.php">Foro</a>
     </nav>
     </div>
     <div class="col-9">
-        NOTICIAS e Inicio    
+           Aqui ira foro 
     </div>
   </div>
 </div>
