@@ -1,6 +1,6 @@
 <?php
 
-    $link = 'mysql:host=localhost;dbname=chileparapente';
+    $link = 'mysql:host=localhost;dbname=parapenteandino';
     $username = "root";
     $password = "";
     

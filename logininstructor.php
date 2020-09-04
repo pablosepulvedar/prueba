@@ -15,7 +15,8 @@ if(!$resultado){
     die();
 }
 
-if( password_verify( $contrasena_login , $resultado['contrasena'])){
+//if( password_verify( $contrasena_login , $resultado['pass'])){
+    if($contrasena_login == $resultado['pass']){    
     $_SESSION['instructor'] = $resultado['nombre'];
     header('Location: portal_instructor.php');
 }else{

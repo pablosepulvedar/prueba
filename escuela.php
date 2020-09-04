@@ -25,8 +25,8 @@
     
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <div class="navbar-nav mr-auto text-center">
-          <a class="nav-item nav-link active" href="#">Inicio <span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link" href="#">Login</a>
+          <a class="nav-item nav-link active" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link" href="escuela.php">Login</a>
           <a class="nav-item nav-link" href="#">Registro</a>
           <a class="nav-item nav-link" href="#">Contacto</a>
       </div>
